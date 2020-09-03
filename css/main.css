@@ -1,0 +1,19 @@
+body, html
+{
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto Condensed', sans-serif!important;	
+}
+@media only screen and (max-width: 768px) {
+    .student_wrap{
+        padding-top:0px!important;
+    }
+    .heading_right h2{
+        padding-top: 25px!important;
+        text-align: center!important;        
+    }
+    .student_name{
+        border: none!important;
+        padding-bottom: 10px;
+    }    
+}
